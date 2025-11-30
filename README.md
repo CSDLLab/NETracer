@@ -8,6 +8,8 @@ By jointly predicting the next node and its connecting edge, the tracer no longe
 
 If you found this project useful, you can kindly give us a star ⭐, or cite us in your work 📖:
 
+We would also like to thank Dr. Ting Zhao for his contributions to this project.
+
 ```
 @inproceedings{liu2025netracer,
   title={NETracer: A Topology-Aware Iterative Tracing Approach for Tubular Structure Extraction},
